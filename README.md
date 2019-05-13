@@ -31,7 +31,7 @@ You can see that in [Angular-Natour-Project](https://github.com/othecos/Angular-
 #### Othecos
 A Web developer with experience in `Angular`, `Sass` and `Back-end` development
 - Contact - othecos@gmail.com
-- Web Portofolio - https://othecos-web-qa.herokuapp.com/ (Current in beta version)
-- Linkedin - [![](https://media.licdn.com/dms/image/C4E12AQHh9fBjpzFo1A/article-inline_image-shrink_1000_1488/0?e=1552521600&v=beta&t=PgH46e9sTLKoJ-fuPphuLE_eUOZVN4Xodt8kQQyhmRE)](https://www.linkedin.com/in/otavio-henrique-pires-costa-354902126/)
+- Web Portofolio - https://www.othecos.com.br/ (Current in beta version)
+- Linkedin https://www.linkedin.com/in/otavio-henrique-pires-costa
 
 
