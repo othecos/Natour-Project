@@ -31,7 +31,7 @@ You can see that in [Angular-Natour-Project](https://github.com/othecos/Angular-
 #### Othecos
 A Web developer with experience in `Angular`, `Sass` and `Back-end` development
 - Contact - othecos@gmail.com
-- Web Portofolio - https://www.othecos.com.br/ (Current in beta version)
+- Web Portofolio - https://www.othecos.com.br/
 - Linkedin https://www.linkedin.com/in/otavio-henrique-pires-costa
 
 
